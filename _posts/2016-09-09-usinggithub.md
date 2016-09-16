@@ -47,13 +47,13 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>Focusing in class so I make my account right first time with all the right inputs and detail</td>
+    <td>Focusing in class so I make my account right first time with all the right inputs and detail. The habits i need to work on is paying attention in class</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning? Add detail to my work</td>
+    <td>What will I change for next time? How will I improve my learning? </td>
   </tr>
   <tr>
-    <td></td>
+    <td>Next time i will use my IT skills to do my work quicker and i will improve my learning by noting down what mr keen says so i don't have to rely on others.</td>
   </tr>
 </table>
 
