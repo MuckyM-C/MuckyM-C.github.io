@@ -37,23 +37,12 @@ table {
 table, th, td {
     border: 1px solid black;
 }
-th {
-    background-color: #ff0000;
-    color: #ff0000;
-}
-
-table {
-    border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid black;
-}
 
 th {
 	border :5px solid black;
 	color: purple;
 }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
