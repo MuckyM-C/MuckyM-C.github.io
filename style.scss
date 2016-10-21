@@ -27,7 +27,6 @@ body {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
-  width: 100%;
 }
 
 table {
@@ -36,10 +35,7 @@ table {
 
 table, th, td {
     border: 1px solid black;
-}
-
-
-}
+} 
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
@@ -49,6 +45,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
+  width: 100%;
 
   @include mobile {
     line-height: 1.4;
